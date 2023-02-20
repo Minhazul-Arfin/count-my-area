@@ -1,0 +1,71 @@
+*{
+    padding: 0px 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#header-span{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e8f4fc;
+    margin: 20px auto;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+.img-style{
+    height: 200px;
+    width: 200px;
+}
+
+.card{
+    margin-top: 20px !important;
+}
+
+.card-style{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 50px 10px;
+}
+
+/* .card-style-hover :hover{
+    background-color: #e8f4fc !important;
+} */
+.input-field{
+    height: 20px;
+    width: 80px;
+    margin: 0px 10px;
+}
+.input-div{
+    display: flex;
+}
+
+.result-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+.result-div .convert-btn{
+    background-color: #1090d8;
+    border-radius: 5px;
+    border: 0px;
+    height: 25 px;
+}
+
+.blog-body{
+    margin: 2% 2%;
+    background-color: #edfbfe;
+}
+
+.blog-title{
+    background-color: #c4c0b8;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.para-div{
+    background-color: #dad7d1;
+    margin-bottom: 20px;
+    padding: 20px 50px;
+    border-radius: 10px;
+}
